@@ -27,7 +27,7 @@ Create a web-based event planner that allows users to:
 
 ## 🚀 How to Run Locally
 ```bash
-git clone https://github.com/your-username/event-planner.git
+git clone https://github.com/moi-brooks/event-planner.git
 cd event-planner
 open index.html
 ```
@@ -54,11 +54,3 @@ event-planner/
 │   └── search.js
 └── README.md
 ```
-
-## ✅ Done
-- [ ] Layout/Design
-- [ ] CRUD Events
-- [ ] Calendar Display
-- [ ] Notifications
-- [ ] Storage Setup
-- [ ] Search Function# event-planner-GEEKS-
